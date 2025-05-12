@@ -37,6 +37,7 @@ I'm also passionate about helping others break into tech, launch online business
 <div align="left">      
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify,linux,aws" />
 </div>
+
 ### 🔗 Let’s Connect:
 - 🌐 [Website](https://richardmarkross.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/richard-ross-71a4b3217/)
