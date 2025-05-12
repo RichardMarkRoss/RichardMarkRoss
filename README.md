@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# 💫 About Me:
+<img width="100%" src="https://i.ibb.co/TBFnH6C/github-header-image.png" alt="my banner">
+I'm Richard Ross – a self-taught full-stack developer and tech entrepreneur from South Africa 🇿🇦. I build digital products that make property sales easier, automate business tasks, and empower everyday people to take control of their future. Whether it’s Laravel backends, React frontends, or AI-driven tools, I love combining logic and creativity to deliver real-world impact.
+
+I'm also passionate about helping others break into tech, launch online businesses, and build passive income using automation and smart tools.
+
 # 💻 Tech Stack:
 
 ### 🔥 Major Programming Languages:
@@ -31,19 +37,6 @@
 <div align="left">      
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify,linux,aws" />
 </div>
-
-
-<!--
-**RichardMarkRoss/RichardMarkRoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let’s Connect:
+- 🌐 [Website](https://richardmarkross.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/richard-ross-71a4b3217/)
