@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Richard+Ross+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%87%BF%E0%B4%A6+from+South+Africa;Building+PropTech+%2B+Automation+%2B+AI+tools;Helping+others+launch+%26+scale+in+tech" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Richard+Ross+%F0%9F%91%8B;Full-Stack+Developer+from+South+Africa;Building+PropTech+%2B+Automation+%2B+AI+tools;Helping+others+launch+%26+scale+in+tech" alt="Typing animation" />
   </a>
 </div>
 
