@@ -124,8 +124,8 @@ const richard = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmarkross&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarkross&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmarkross&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&cache_seconds=86400&v=1" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmarkross&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0&cache_seconds=86400&v=1" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -133,7 +133,7 @@ const richard = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richardmarkross&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=richardmarkross&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=1" alt="Trophies" />
 </div>
 
 <div align="center">
